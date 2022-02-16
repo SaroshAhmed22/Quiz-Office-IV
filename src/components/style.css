@@ -1,0 +1,37 @@
+.b1{
+    border: 1px solid red;
+  }
+  .myicon{
+    margin-left: 5px;
+  }
+  
+  .iconlast{
+    color:rgb(203, 204, 203) ;
+  }
+  
+  
+  p{
+    color:rgb(203, 204, 203) ;
+  
+  }
+  
+  .my_option{
+    background-color: rgb(229, 230, 229);
+  border: 1px solid  black;
+  width: 20%;
+  
+  border-radius:7px;
+  }
+  
+  
+  button{
+    border-radius: 7px;
+    margin-top: 40px;
+    font-weight: bold;
+    padding: 10px;
+  
+  }
+  .next-one{
+  display: flex;
+  justify-content: center;
+  }
